@@ -6,8 +6,6 @@
 
 [SpiceDB] is an open source database system originally inspired by [Google's Zanzibar paper].
 
-SpiceDB is the industry leader for implementing authorization best practices and is used in production by organizations of various size and industry.
-
 [SpiceDB]: https://github.com/authzed/spicedb
 [Google's Zanzibar paper]: https://authzed.com/blog/what-is-zanzibar/
 
@@ -21,7 +19,9 @@ Data in SpiceDB can be performantly queried to answer questions such as:
 
 [authorize]: https://docs.authzed.com/reference/glossary#authorization
 
-### Getting Started
+SpiceDB is the leading solution for enabling authorization best practices and is used in production by organizations of various size and industry.
+
+### 🛠 Getting Started
 
 - Join the community [Discord] or explore the ecosystem mapped out in the [Awesome SpiceDB list]
 - [Watch a video] of the creators of SpiceDB drafting a schema for the permissions used by GitHub.com
