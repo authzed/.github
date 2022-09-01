@@ -7,20 +7,11 @@
 
 [SpiceDB] is an open source database system originally inspired by [Google's Zanzibar paper].
 
+SpiceDB is the industry-leading solution empowering everyone to have access to [authorization] best practices.
+
 [SpiceDB]: https://github.com/authzed/spicedb
 [Google's Zanzibar paper]: https://authzed.com/blog/what-is-zanzibar/
-
-SpiceDB stores the data your applications need to [authorize] interactions.
-
-Data in SpiceDB can be performantly queried to answer questions such as:
-
-- Does this user have access to this resource?
-- What are all the resources this user has access to?
-- Who are all of the users with access to this resource?
-
-[authorize]: https://docs.authzed.com/reference/glossary#authorization
-
-SpiceDB is the leading solution for enabling authorization best practices and is used in production by organizations of various size and industry.
+[authorization]: https://docs.authzed.com/reference/glossary#authorization
 
 ### 🛠 Getting Started
 
@@ -38,3 +29,13 @@ SpiceDB is the leading solution for enabling authorization best practices and is
 [Install SpiceDB]: https://docs.authzed.com/spicedb/installing
 [zed]: https://github.com/authzed/zed
 [community examples]:  https://github.com/authzed/examples
+
+### 💖 Authzed + Open Source
+
+At Authzed, we believe that the software securing your systems needs full transparency: down to each line of code.
+Our founders come from a background of Open Source companies, so our default is not only to open source the code we write, but to also enable contributions and design collaboration.
+
+If you choose to contribute to any of our projects, we would love to have you.
+If you like the experience and think you might want to do this full-time, you can [apply to work with us full-time]!
+
+[apply to work with us full-time]: https://www.workatastartup.com/companies/authzed
