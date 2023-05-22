@@ -33,7 +33,7 @@ Together we're building a community that empowers everyone to have access to [au
 ### 💖 Authzed + Open Source
 
 At Authzed, we believe that the software securing your systems needs full transparency: down to each line of code.
-Our team comes from a background of participating open source communities, so our default is not only to freely license code, but to also to build a community that enables collaboration for all stakeholders.
+Because of our team's background of participating open source communities, our default is not only to freely license code, but also build a community that enables participation at all stages of development.
 
 If you choose to contribute to any of our projects, we would love to have you.
 If you like the experience and think you might want to do this full-time, you can [apply to work with us full-time]!
